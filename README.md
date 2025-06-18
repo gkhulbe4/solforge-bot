@@ -31,17 +31,6 @@ A **Telegram bot** that allows users to **create and manage Solana wallets** sec
 
 ---
 
-## 🔧 Still in Progress
-
-I'm actively working on:
-
-- 💱 **Token Trading (SPL Swap)**
-- 🪙 **Custom Token Transactions**
-- 🖼️ **NFT Interactions**
-- ⚙️ **Advanced Wallet Analytics**
-
----
-
 ## 🛠 Tech Stack
 
 | Tech           | Purpose                       |
