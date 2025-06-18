@@ -1,4 +1,4 @@
-# 🤖 Solana Telegram Wallet Bot
+# 🤖 SolForge (TGbot)
 
 A **Telegram bot** that allows users to **create and manage Solana wallets** securely right inside chat. From wallet generation to transferring SOL — all done with end-to-end encryption and a clean UX.
 
@@ -54,4 +54,34 @@ I'm actively working on:
 
 ---
 
-## 📁 Project Structure
+## 🛠️ Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/gkhulbe4/solforge-bot
+cd solforge-bot
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Setup Environment
+
+Create a `.env` file in the root:
+
+```env
+BOT_TOKEN=your_bot_token
+MONGO_URI=your_mongo_connection_string
+ENCRYPTION_SECRET_KEY=your_aes_secret_key_32_chars
+
+```
+
+### 4. Start Development Server
+
+```bash
+npm run dev
+```
